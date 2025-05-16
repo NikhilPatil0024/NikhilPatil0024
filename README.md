@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikhilPatil0024
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning/ Linux and Networking as well.
 - 🌱 I’m currently learning Data Analytics...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/nikhilpatil_0024/
