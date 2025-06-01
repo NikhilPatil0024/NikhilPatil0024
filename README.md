@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @NikhilPatil0024
-- 👀 I’m interested in Data Science and Machine Learning/ Linux and Networking as well.
-- 🌱 I’m currently learning Data Analytics...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science / Linux and Networking as well.
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.instagram.com/nikhilpatil_0024/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 NikhilPatil0024/NikhilPatil0024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
