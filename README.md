@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikhilPatil0024
-- 👀 I’m interested in Data Science / Linux and Networking as well.
+- 👀 I’m interested in Cyber Security / Linux and Networking as well.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.instagram.com/nikhilpatil_0024/
 
