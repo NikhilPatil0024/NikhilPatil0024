@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilPatil0024
-- 👀 I’m interested in Cyber Security, Linux and Networking, Web Development.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Linux and Networking, Web Development.
+- 🌱 Currently learning Data Science
 - 📫 How to reach me https://www.linkedin.com/in/nikhilpatil0024/
 
 <!---
