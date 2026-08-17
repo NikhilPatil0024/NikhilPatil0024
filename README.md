@@ -133,10 +133,8 @@ I prefer building and documenting small practical projects rather than only coll
 
 ## 🤝 Let's Connect
 
-I'm interested in **entry-level Linux, IT Support, System Administration, and Infrastructure Support opportunities**.
+I'm interested in **entry-level Linux, IT Support, System Administration, and Cloud Infrastructure based opportunities**.
 
 📫 **LinkedIn:**
 https://www.linkedin.com/in/nikhilpatil0024/
 
-💻 **GitHub:**
-https://github.com/NikhilPatil0024
