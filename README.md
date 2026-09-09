@@ -1,6 +1,7 @@
 # Hi, I'm Nikhil Patil 👋
 
 Breaking into cybersecurity | From concepts to exploitation
+---
 Currently working toward my eJPT certification while sharpening skills on TryHackMe and HackTheBox.
 
 ---
