@@ -14,8 +14,6 @@ Currently working toward my eJPT certification while sharpening skills on TryHac
 - Web Application Security (OWASP Top 10)
 - Hands-on labs and CTFs
 
-## 🎯 Goal
-`Fresher` → `eJPT` → `Junior Pen Tester` → `OSCP` → `Professional Red Teamer`
 
 ---
 
